@@ -27,7 +27,7 @@ async def braodcast_message(client, message, _):
 
     if "-wfchat" in message.text or "-wfuser" in message.text:
         if not message.reply_to_message or not (message.reply_to_message.photo or message.reply_to_message.text):
-            return await message.reply_text("<b>𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :</b>\n\n/broadcast [ 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 𝖮𝗋 𝖱𝖾𝗉𝗅𝗒 𝖳𝗈 𝖠 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 ]")
+            return await message.reply_text("<b>𝖤𝗑𝖺𝗆𝗉𝗅𝖾 :</b>\n\n/cgcast [ 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 𝖮𝗋 𝖱𝖾𝗉𝗅𝗒 𝖳𝗈 𝖠 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 ]")
 
         # Extract Data From The Replied Message
         if message.reply_to_message.photo:
