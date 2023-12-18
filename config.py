@@ -93,19 +93,19 @@ PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
 )
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_AUDIO_URL", "https://graph.org/file/8c0baca5778e75a3f079b.jpg"
 )
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_VIDEO_URL", "https://graph.org/file/8c0baca5778e75a3f079b.jpg"
 )
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "STREAM_IMG_URL", "https://graph.org/file/8c0baca5778e75a3f079b.jpg"
 )
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL", "https://te.legra.ph/file/f72ea4bd955c418c724e1.jpg"
 )
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "YOUTUBE_IMG_URL", "https://graph.org/file/8c0baca5778e75a3f079b.jpg"
 )
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
